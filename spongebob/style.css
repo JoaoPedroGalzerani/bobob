@@ -1,0 +1,76 @@
+.container-fluid
+{
+    background-color: rgb(225, 225, 79);
+}
+#top
+{
+    align-items: center;
+}
+li
+{
+    list-style: none;
+}
+a
+{
+    text-decoration: none;
+}
+.yellow
+{
+    background-color: rgb(225, 225, 79);
+}
+.pink
+{
+    background-color: rgb(226, 156, 168);
+}
+.blue
+{
+    background-color:#4785a9;
+}
+.links
+{
+    color: white;
+}
+@font-face 
+{
+    font-family: sponge;
+    src: url(../font/font.otf);
+}
+h1
+{
+color:white;
+font-size: 30px;
+}
+h2
+{
+font-family: sponge;
+font-size: 30px;
+text-align: center;
+}
+h3
+{
+font-family: sponge;
+}
+h4
+{
+font-family: sponge;
+color: white;
+font-size: 30px;
+text-align: center;
+}
+h5
+{
+    font-family: sponge;
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.Credit
+{ 
+background-image: url(./image/credit.jpg);
+width: 100%;
+}
+h6{
+    font-family: sponge;
+    font-size: 15px;
+    color: white;
+}
